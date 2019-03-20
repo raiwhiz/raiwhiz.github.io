@@ -1,1 +1,9 @@
 theme: jekyll-theme-cayman
+
+# Site
+title: raiwhiz的博客
+subtitle:
+description:
+author: raiwhiz
+language:
+timezone: Asia/Shanghai
